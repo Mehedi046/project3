@@ -1,0 +1,461 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+a{
+	text-decoration: none;
+
+}
+ul li{
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p,input,a{
+	    font-family: 'Roboto', sans-serif;
+}
+/**************1st section here**********/
+.sections{
+	display: flex;
+}
+.second-section{
+	display: flex;
+}
+.container{
+	background-color: #f1f0f0;
+}
+.first-section{
+	background-color: #015761;
+	width: 550px;
+	height: 520px;
+}
+.header-text h3{
+	color: #f7dc4f;
+}
+.header-text{
+	padding: 20px;
+	margin: 10px;
+}
+.link ul li {
+	display: inline-block;
+	padding-right: 10px;
+	font-size: 12px;
+	color: #bcd3d5;
+}
+.link li:hover{
+	color: red;
+}
+.font-text{
+	color: white;
+	text-align: center;
+	padding: 60px;
+	
+}
+.font-text h5{
+	font-size: 18px;
+	color: #f7dc4f;
+	padding-right: 24px;
+
+}
+.font-text p{
+	padding-left: 60px;
+	padding-top: 10px;
+	color: white;
+
+
+}
+.second-section img{
+	width: 550px;
+	height: 500px;
+	position: relative;
+
+}
+.icon ul li{
+	background-color: #f7dc4f;
+
+}
+.icon{
+	display: flex;
+	align-items: center;
+	position: absolute;
+	margin-left: 535px;
+	margin-top: 200px;
+}
+.icon:hover{
+	color: white;
+}
+.text{
+	text-align: center;
+	margin-top: 50px;
+}
+.text h2{
+	color: #015761;
+}
+.text p{
+	color: #6f6e6e;
+	font-size: 13px;
+}
+.text-2{
+	text-align: center;
+	color: #6f6e6e;
+	padding-top: 20px;
+	font-size: 13px;
+}
+.button button{
+	background-color: yellow;
+	margin: 10px 500px;
+	border: none;
+}   
+.button button:hover{
+	background-color: greenyellow;
+}
+.bg{
+	margin-top: 60px;
+
+	width: 100%;
+	height: 60vh;
+	background: url(../img/bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: none;
+
+
+}
+.bg h5{
+	padding: 200px;
+	margin: 0px 350px;
+	color:white ;
+
+}
+.photo-1{
+	justify-content: space-evenly;
+}
+.last-section{
+	margin-top: 20px;
+
+
+	
+
+}
+.last-section img{
+	width: 500px;
+	height: 430px;
+
+}
+.container-2{
+	display: flex;
+	color: white;
+	text-align: left;
+	background-color: #015761;
+	
+
+}
+.intro{
+	margin-left: 200px;
+	margin-top: 200px;
+	line-height: 30px;
+
+}
+.intro h2{
+	font-size: 50px;
+	margin-bottom: 10px;
+	color: #f7dc4f;
+}
+.icons ul{
+	display: flex;
+	
+   
+}
+.icons li{
+	width: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
